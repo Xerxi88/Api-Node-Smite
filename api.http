@@ -1,0 +1,41 @@
+### Visitar la home de la página
+GET http://localhost:8080/
+
+### Recuperar todas los dioses
+GET http://localhost:8080/gods
+
+### Recuperar una dios por id
+GET http://localhost:8080/gods/13
+
+### Recuperar todas los dioses por un carril
+GET http://localhost:8080/gods?carril=Medio
+
+### Crear un dios con POST
+POST http://localhost:8080/gods
+Content-Type: application/json
+
+{
+    "title": "Hel",
+    "year": 2015,
+    "panteon": "Nórdico",
+    "rol": "Mago",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/hel_standard-hel.jpg",
+    "carril": [
+      "Medio",
+      "Dúo"
+    ],
+    "rate": 9.6
+  }
+
+### Actualizar un dios
+PATCH http://localhost:8080/gods/1
+Content-Type: application/json
+
+{
+  "year": 2012
+}
+
+
+### Borrar un dios
+
+DELETE  http://localhost:8080/gods/1

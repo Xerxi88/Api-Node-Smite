@@ -1,0 +1,506 @@
+[
+  {
+    "id": "1",
+    "title": "Thor",
+    "year": 2012,
+    "panteon": "Nórdico",
+    "rol": "Asesino",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/thor_standard-thor.jpg",
+    "carril": [
+      "Jungla",
+      "Solo"
+    ],
+    "rate": 8.7
+  },
+  {
+    "id": "2",
+    "title": "Ra",
+    "year": 2012,
+    "panteon": "Egipcio",
+    "rol": "Mago",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/ra_standard-ra.jpg",
+    "carril": [
+      "Medio"
+    ],
+    "rate": 9.1
+  },
+  {
+    "id": "3",
+    "title": "Ymir",
+    "year": 2012,
+    "panteon": "Nórdico",
+    "rol": "Guardián",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/ymir_standard-ymir.jpg",
+    "carril": [
+      "Soporte",
+      "Solo"
+    ],
+    "rate": 7.5
+  },
+  {
+    "id": "4",
+    "title": "Neith",
+    "year": 2012,
+    "panteon": "Egipcio",
+    "rol": "Cazador",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/neith_standard-neith.jpg",
+    "carril": [
+      "Dúo",
+      "Medio"
+    ],
+    "rate": 8.3
+  },
+  {
+    "id": "5",
+    "title": "Guan Yu",
+    "year": 2012,
+    "panteon": "Chino",
+    "rol": "Guerrero",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/guan_yu_standard-guan-yu.jpg",
+    "carril": [
+      "Solo",
+      "Jungla"
+    ],
+    "rate": 7.9
+  },
+  {
+    "id": "6",
+    "title": "Zeus",
+    "year": 2012,
+    "panteon": "Griego",
+    "rol": "Mago",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/zeus_standard-zeus.jpg",
+    "carril": [
+      "Medio",
+      "Dúo"
+    ],
+    "rate": 9.2
+  },
+  {
+    "id": "7",
+    "title": "Hercules",
+    "year": 2012,
+    "panteon": "Romano",
+    "rol": "Guerrero",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/hercules_standard-hercules.jpg",
+    "carril": [
+      "Solo",
+      "Jungla"
+    ],
+    "rate": 8.1
+  },
+  {
+    "id": "8",
+    "title": "Anubis",
+    "year": 2012,
+    "panteon": "Egipcio",
+    "rol": "Mago",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/anubis_standard-anubis.jpg",
+    "carril": [
+      "Medio",
+      "Jungla"
+    ],
+    "rate": 8.6
+  },
+  {
+    "id": "9",
+    "title": "Poseidon",
+    "year": 2013,
+    "panteon": "Griego",
+    "rol": "Mago",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/poseidon_standard-poseidon.jpg",
+    "carril": [
+      "Medio",
+      "Solo"
+    ],
+    "rate": 8.8
+  },
+  {
+    "id": "10",
+    "title": "Bakasura",
+    "year": 2012,
+    "panteon": "Hindú",
+    "rol": "Asesino",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/bakasura_standard-bakasura.jpg",
+    "carril": [
+      "Jungla"
+    ],
+    "rate": 7.3
+  },
+  {
+    "id": "11",
+    "title": "Apollo",
+    "year": 2012,
+    "panteon": "Griego",
+    "rol": "Cazador",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/apollo_standard-apollo.jpg",
+    "carril": [
+      "Dúo",
+      "Medio"
+    ],
+    "rate": 8.4
+  },
+  {
+    "id": "12",
+    "title": "Sobek",
+    "year": 2012,
+    "panteon": "Egipcio",
+    "rol": "Guardián",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/sobek_standard-sobek.jpg",
+    "carril": [
+      "Soporte",
+      "Solo"
+    ],
+    "rate": 8.0
+  },
+  {
+    "id": "13",
+    "title": "Hades",
+    "year": 2012,
+    "panteon": "Griego",
+    "rol": "Mago",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/hades_standard-hades.jpg",
+    "carril": [
+      "Medio",
+      "Solo"
+    ],
+    "rate": 8.9
+  },
+  {
+    "id": "14",
+    "title": "Athena",
+    "year": 2013,
+    "panteon": "Griego",
+    "rol": "Guardián",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/athena_standard-athena.jpg",
+    "carril": [
+      "Soporte",
+      "Solo"
+    ],
+    "rate": 9.0
+  },
+  {
+    "id": "15",
+    "title": "Artemis",
+    "year": 2012,
+    "panteon": "Griego",
+    "rol": "Cazador",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/artemis_standard-artemis.jpg",
+    "carril": [
+      "Dúo"
+    ],
+    "rate": 8.2
+  },
+  {
+    "id": "16",
+    "title": "Fenrir",
+    "year": 2013,
+    "panteon": "Nórdico",
+    "rol": "Asesino",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/fenrir_standard-fenrir.jpg",
+    "carril": [
+      "Jungla",
+      "Solo"
+    ],
+    "rate": 8.7
+  },
+  {
+    "id": "17",
+    "title": "Cabrakan",
+    "year": 2014,
+    "panteon": "Maya",
+    "rol": "Guardián",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/cabrakan_standard-cabrakan.jpg",
+    "carril": [
+      "Soporte",
+      "Solo",
+      "Jungla"
+    ],
+    "rate": 7.8
+  },
+  {
+    "id": "18",
+    "title": "Chronos",
+    "year": 2013,
+    "panteon": "Griego",
+    "rol": "Mago",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/chronos_standard-chronos.jpg",
+    "carril": [
+      "Medio",
+      "Solo"
+    ],
+    "rate": 9.1
+  },
+  {
+    "id": "19",
+    "title": "Ares",
+    "year": 2012,
+    "panteon": "Griego",
+    "rol": "Guardián",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/ares_standard-ares.jpg",
+    "carril": [
+      "Soporte",
+      "Solo"
+    ],
+    "rate": 8.4
+  },
+  {
+    "id": "20",
+    "title": "Loki",
+    "year": 2012,
+    "panteon": "Nórdico",
+    "rol": "Asesino",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/loki_standard-loki.jpg",
+    "carril": [
+      "Jungla",
+      "Solo"
+    ],
+    "rate": 8.6
+  },
+  {
+    "id": "21",
+    "title": "Susano",
+    "year": 2016,
+    "panteon": "Japón",
+    "rol": "Asesino",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/susano_standard-susano.jpg",
+    "carril": [
+      "Jungla"
+    ],
+    "rate": 8.8
+  },
+  {
+    "id": "22",
+    "title": "Kuzenbo",
+    "year": 2017,
+    "panteon": "Japón",
+    "rol": "Guardián",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/kuzenbo_standard-kuzenbo.jpg",
+    "carril": [
+      "Soporte"
+    ],
+    "rate": 8.2
+  },
+  {
+    "id": "23",
+    "title": "Terra",
+    "year": 2016,
+    "panteon": "Romano",
+    "rol": "Guardián",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/terra_standard-terra.jpg",
+    "carril": [
+      "Soporte",
+      "Solo"
+    ],
+    "rate": 8.5
+  },
+  {
+    "id": "24",
+    "title": "Erlang Shen",
+    "year": 2016,
+    "panteon": "Chino",
+    "rol": "Guerrero",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/erlang_shen_standard-erlang-shen.jpg",
+    "carril": [
+      "Solo",
+      "Jungla"
+    ],
+    "rate": 8.9
+  },
+  {
+    "id": "25",
+    "title": "Cernunnos",
+    "year": 2017,
+    "panteon": "Celta",
+    "rol": "Cazador",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/cernunnos_standard-cernunnos.jpg",
+    "carril": [
+      "Dúo"
+    ],
+    "rate": 8.3
+  },
+  {
+    "id": "26",
+    "title": "Artio",
+    "year": 2017,
+    "panteon": "Celta",
+    "rol": "Guardián",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/artio_standard-artio.jpg",
+    "carril": [
+      "Solo",
+      "Soporte"
+    ],
+    "rate": 8.0
+  },
+  {
+    "id": "27",
+    "title": "Da Ji",
+    "year": 2017,
+    "panteon": "Chino",
+    "rol": "Asesino",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/da_ji_standard-daji.jpg",
+    "carril": [
+      "Jungla"
+    ],
+    "rate": 8.6
+  },
+  {
+    "id": "28",
+    "title": "Pele",
+    "year": 2018,
+    "panteon": "Polinesio",
+    "rol": "Asesino",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/pele_standard-pele.jpg",
+    "carril": [
+      "Jungla"
+    ],
+    "rate": 9.0
+  },
+  {
+    "id": "29",
+    "title": "Merlin",
+    "year": 2019,
+    "panteon": "Artúrico",
+    "rol": "Mago",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/merlin_standard-merlin.jpg",
+    "carril": [
+      "Medio"
+    ],
+    "rate": 9.2
+  },
+  {
+    "id": "30",
+    "title": "King Arthur",
+    "year": 2019,
+    "panteon": "Artúrico",
+    "rol": "Guerrero",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/king_arthur_standard-king-arthur.jpg",
+    "carril": [
+      "Solo"
+    ],
+    "rate": 9.1
+  },
+  {
+    "id": "31",
+    "title": "Set",
+    "year": 2019,
+    "panteon": "Egipcio",
+    "rol": "Asesino",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/set_standard-set.jpg",
+    "carril": [
+      "Jungla",
+      "Solo"
+    ],
+    "rate": 8.4
+  },
+  {
+    "id": "32",
+    "title": "Horus",
+    "year": 2019,
+    "panteon": "Egipcio",
+    "rol": "Guardián",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/horus_standard-horus.jpg",
+    "carril": [
+      "Soporte"
+    ],
+    "rate": 8.3
+  },
+  {
+    "id": "33",
+    "title": "Heimdallr",
+    "year": 2019,
+    "panteon": "Nórdico",
+    "rol": "Cazador",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/heimdallr_standard-heimdallr.jpg",
+    "carril": [
+      "Dúo"
+    ],
+    "rate": 9.0
+  },
+  {
+    "id": "34",
+    "title": "Tsukuyomi",
+    "year": 2020,
+    "panteon": "Japón",
+    "rol": "Asesino",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/tsukuyomi_standard-tsukuyomi.jpg",
+    "carril": [
+      "Jungla",
+      "Solo"
+    ],
+    "rate": 8.7
+  },
+  {
+    "id": "35",
+    "title": "Morgan Le Fay",
+    "year": 2021,
+    "panteon": "Artúrico",
+    "rol": "Mago",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/morgan_le_fay_standard-morgan-le-fay.jpg",
+    "carril": [
+      "Medio"
+    ],
+    "rate": 9.1
+  },
+  {
+    "id": "36",
+    "title": "Cliodhna",
+    "year": 2021,
+    "panteon": "Celta",
+    "rol": "Asesino",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/cliodhna_standard-cliodhna.jpg",
+    "carril": [
+      "Jungla"
+    ],
+    "rate": 8.5
+  },
+  {
+    "id": "37",
+    "title": "Atlas",
+    "year": 2021,
+    "panteon": "Griego",
+    "rol": "Guardián",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/atlas_standard-atlas.jpg",
+    "carril": [
+      "Soporte"
+    ],
+    "rate": 8.2
+  },
+  {
+    "id": "38",
+    "title": "Charybdis",
+    "year": 2021,
+    "panteon": "Griego",
+    "rol": "Cazador",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/charybdis_standard-charybdis.jpg",
+    "carril": [
+      "Dúo"
+    ],
+    "rate": 8.9
+  },
+  {
+    "id": "39",
+    "title": "Shiva",
+    "year": 2022,
+    "panteon": "Hindú",
+    "rol": "Guerrero",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/shiva_standard-shiva.jpg",
+    "carril": [
+      "Solo",
+      "Jungla"
+    ],
+    "rate": 9.3
+  },
+  {
+    "id": "40",
+    "title": "Ishtar",
+    "year": 2022,
+    "panteon": "Babilónico",
+    "rol": "Cazador",
+    "poster": "https://webcdn.hirezstudios.com/smite/god-skins/ishtar_standard-ishtar.jpg",
+    "carril": [
+      "Dúo"
+    ],
+    "rate": 9.0
+  }
+]
