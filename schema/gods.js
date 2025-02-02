@@ -1,4 +1,4 @@
-const z = require("zod");
+import z from "zod";
 
 const movieSchema = z.object({
   title: z.string({
@@ -34,4 +34,4 @@ const validatePartialGods = (object) => {
   return movieSchema.partial().safeParse(object);
 };
 
-module.exports = { validateGods, validatePartialGods };
+export { validateGods, validatePartialGods };

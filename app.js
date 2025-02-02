@@ -1,7 +1,10 @@
-const express = require("express");
+import express from "express";
+import cors from "cors";
+import { validateGods, validatePartialGods } from "./schema/gods.js";
+
+import { createRequire } from "node:module";
+const require = createRequire(import.meta.url);
 const gods = require("./gods.json");
-const cors = require("cors");
-const { validateGods, validatePartialGods } = require("./schema/gods");
 
 const app = express();
 app.disable("x-powered-by");
