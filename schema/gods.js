@@ -17,7 +17,7 @@ const movieSchema = z.object({
   poster: z
     .string({
       invalid_type_error: "El poster debe ser un string",
-      required_error: "El campo del rol es obligatorio",
+      required_error: "El campo del poster es obligatorio",
     })
     .url({
       message: "el poster tiene debería de ser una url válida",
