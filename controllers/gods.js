@@ -25,9 +25,7 @@ export class GodController {
     const newGod = await GodModel.create({ input: result.data });
 
     if (newGod.error) {
-      return res
-        .status(400)
-        .json({ message: "Ya existe un dios con este nombre" });
+      return res.status(400).json({ message: "Dios duplicado" });
     }
 
     return res.status(201).json(newGod);
